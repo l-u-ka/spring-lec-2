@@ -1,2 +1,4 @@
-package com.example.demo.dto;public class Test {
+package com.example.demo.dto;
+
+public class Test {
 }
